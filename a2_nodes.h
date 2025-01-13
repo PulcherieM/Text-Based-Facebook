@@ -1,7 +1,4 @@
-/********* nodes.h ********
-    Student Name 	= Pulcherie Mbaye
-    Student Number	= 101302394
-*/
+
 #ifndef _A2_NODES_H
 #define _A2_NODES_H
 
