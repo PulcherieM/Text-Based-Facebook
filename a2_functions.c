@@ -1,7 +1,4 @@
-/*****************
-    Student Name 	= Pulcherie Mbaye
-    Student Number	= 101302394
-*/
+
 
 #include <stdlib.h>
 #include <stdio.h>
