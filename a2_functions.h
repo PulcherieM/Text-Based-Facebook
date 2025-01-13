@@ -1,7 +1,4 @@
-/********* functions.h ********
-   Student Name 	= Pulcherie Mbaye
-   Student Number	= 101302394
-*/
+
 #ifndef _A2_FUNCTIONS_H
 #define _A2_FUNCTIONS_H
 #include "a2_nodes.h"
