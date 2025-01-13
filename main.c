@@ -1,7 +1,3 @@
-/********* main.c ********
-    Student Name 	= Pulcherie Mbaye
-    Student Number	= 101302394
-*/
 
 // Includes go here
 #include <stdlib.h>
